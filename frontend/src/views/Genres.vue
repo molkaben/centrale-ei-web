@@ -2,7 +2,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
-  <body>
+  <body style="background-color:black;">
     <div class="scrollmenu">
       <router-link class="nav-link" to="/genres/Action">Action</router-link>
       <router-link class="nav-link" to="/genres/Adventure"
